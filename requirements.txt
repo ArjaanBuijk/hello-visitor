@@ -1,0 +1,9 @@
+django
+psycopg2
+email-validator
+python-dotenv
+pydantic
+dj-database-url
+whitenoise
+gunicorn
+requests

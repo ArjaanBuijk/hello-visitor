@@ -1,0 +1,8 @@
+-r requirements.txt
+black
+pylint
+pylint-django
+mypy
+pytest
+pytest-xdist
+coverage
