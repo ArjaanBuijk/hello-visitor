@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{% load static %}
 
 <html lang="en">
   <head>
@@ -10,7 +11,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
     <title>Hello, visitor!</title>
-    <link rel="icon" href="https://frontier-assets.toptal.com/83b2f6e0d02cdb3d951a75bd07ee4058.png"/>
+    <!-- <link rel="icon" href="https://frontier-assets.toptal.com/83b2f6e0d02cdb3d951a75bd07ee4058.png"/> -->
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}"/>
   </head>
   <body>
   

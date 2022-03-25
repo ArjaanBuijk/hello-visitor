@@ -17,7 +17,7 @@ python-black-check:
     python -m black --check src
 
 python-pylint:
-    python -m pylint --jobs=0 --rcfile=.pylintrc --load-plugins pylint_django --django-settings-module=project.settings  src/*.py src/project src/app_* 
+    python -m pylint --jobs=0 --rcfile=.pylintrc --load-plugins pylint_django --django-settings-module=hello_visitor.settings  src/*.py src/hello_visitor src/app_* 
     
 python-types:
     echo "TO BE IMPLEMENTED USING MYPY"
