@@ -1,10 +1,12 @@
+This code is published as part of the [corresponding blog article](https://www.toptal.com/django/optimize-your-environment-for-development-and-production-a-pydantic-tutorial-part-2) at the Toptal Engineering Blog.
+
+Visit https://www.toptal.com/blog and subscribe to our newsletter to read great articles!
+
+* * *
+
 # Hello-Visitor
 
-I build this demonstration Django app  to highlight the benefits of pydantic settings management. 
-
-
-
-To explore these benefits, we can try out the following two scenarios:
+I built this demonstration Django app to highlight the benefits of pydantic settings management. To explore these benefits, we can try out the following two scenarios:
 
 1. **Missing a required setting**
 
