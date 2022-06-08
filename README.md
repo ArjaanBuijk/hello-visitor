@@ -1,6 +1,6 @@
 # Hello-Visitor
 
-I build this demonstration Django app  to highlight the benefits of pydantic settings management. 
+A demonstration Django app to highlight the benefits of pydantic settings management. 
 
 It is described in these articles in the Toptal Engineering blog:
 
