@@ -6,9 +6,13 @@ It is described in these articles in the Toptal Engineering blog:
 
 1. [Streamline Your Django Settings With Type Hints: A Pydantic Tutorial](https://www.toptal.com/django/streamline-your-django-settings-with-type-hints-pydantic-tutorial)
 2. [Optimize Your Environment for Development and Production: A Pydantic Tutorial, Part 2](https://www.toptal.com/python/optimize-your-environment-for-development-and-production-a-pydantic-tutorial-part-2)
+3. to-be-published: Deployment to Heroku
+4. to-be-published: Securing the Heroku deployment
+
+---
 
 
-To explore these benefits, we can try out the following two scenarios:
+To explore the benefits of pydantic settings management, we can try out the following two scenarios:
 
 1. **Missing a required setting**
 
