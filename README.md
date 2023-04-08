@@ -6,7 +6,7 @@ It is described in these articles in the Toptal Engineering blog:
 
 1. [Streamline Your Django Settings With Type Hints: A Pydantic Tutorial](https://www.toptal.com/django/streamline-your-django-settings-with-type-hints-pydantic-tutorial)
 2. [Optimize Your Environment for Development and Production: A Pydantic Tutorial, Part 2](https://www.toptal.com/python/optimize-your-environment-for-development-and-production-a-pydantic-tutorial-part-2)
-3. Coming soon: Deployment to Heroku
+3. [How to Deploy Django on Heroku: A Pydantic Tutorial, Part 3](https://www.toptal.com/django/deploy-django-heroku-pydantic-tutorial-part-3)
 4. [Security in Django Applications: A Pydantic Tutorial, Part 4](https://www.toptal.com/django/secure-django-heroku-pydantic-tutorial-part-4)
 
 
